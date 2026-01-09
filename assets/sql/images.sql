@@ -1,0 +1,15 @@
+INSERT INTO images (url_image, article_id, vehicule_id) VALUES 
+('https://images.unsplash.com/photo-1516205621492-a54d9f5469fc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fENpdGFkaW5lfGVufDB8fDB8fHww', 1, NULL),
+('https://static1.caroom.fr/guide/wp-content/uploads/2025/01/peugeot-208.jpg.webp', 1, NULL),
+('https://static1.caroom.fr/guide/wp-content/uploads/2025/02/citroen-c3.jpg.webp', 1, NULL),
+('https://static1.caroom.fr/guide/wp-content/uploads/2025/01/opel-corsa.jpg.webp', 1, NULL),
+('https://static1.caroom.fr/guide/wp-content/uploads/2025/03/mini-cooper.jpg.webp', 1, NULL),
+('https://cdn.group.renault.com/dac/fr/offres/offres-fidelite/sandero/R-DAM_1703883-sandero-bi1-ph2-fidelite.jpg.ximg.mediumx2.webp/8987e4e4fe.webp', NULL, 1),
+('https://photos.auto-moto.com/32/2024/12/photo_article/51812/164003/1200-L-prime-carburant-300-offerts-aux-salaris-en-2025-le-coup-de-pouce-du-gouvernement.webp', 2, NULL),
+('https://www.leblog-carspassion.fr/wp-content/uploads/2025/01/volkswagen-Golf-8-GTI-phase-2-facelift-2025.jpg', NULL, 2),
+('https://cdn.teslanorth.com/wp-content/uploads/2025/06/tesla-hero-2025-june.jpg', 3, NULL),
+('https://images.caradisiac.com/logos/8/0/6/5/188065/S7-Essai-Range-Rover-Evoque-restylee-plus-qu-un-simple-SUV-104791.jpg', NULL, 3),
+('https://youshouldgohere.com/wp-content/uploads/2019/02/IMG_4238-1500x793.jpg', 4, NULL),
+('https://www.largus.fr/images/styles/max_1300x1300/public/2024-04/mercedes-amg-c-63-s-2022-gris-avd-mk.jpg?itok=bPRxpEYP', NULL, 4),
+('https://plus.unsplash.com/premium_photo-1677009540975-01b905eafb64?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RnJlaW5zfGVufDB8fDB8fHww', 5, NULL),
+('https://www.topgear.com/sites/default/files/images/news-article/carousel/2018/01/1ca7ff64f05d88984f6ddfa4ac125336/p90289438_highres_mini-cooper-s-3-door.jpg?w=1784&h=1004', NULL, 5);
